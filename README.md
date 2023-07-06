@@ -21,7 +21,7 @@ A large percentage of people in Imperial County is currently living in poverty. 
 <p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/6e35b438-6b2f-4ecf-8ed5-cee296e7b24f" width="60%" height="60%" class="center"></p>
 
 
-15.5% of Latinos in California are living under the poverty line in comparison to 8.7% of White people. In Imperial County, poverty rates are higher, with 22.3% of Latinos living in poverty in comparison to 10% of White people. Latinos, Indigenous people, Hawaiian Natives, Pacific Islanders, Black people, and an unspecified "Other" are the populations carrying the statewide poverty line over their shoulders. Poverty rates for Asian people in California are low. However, this standalone fact does not mean that Asian people have ceased to experience other forms of racisms. 
+15.5% of Latinos in California are living under the poverty line in comparison to 8.7% of White people. In Imperial County, poverty rates are higher than those in California at large, with 22.3% of Latinos living in poverty in comparison to 10% of White people. Latinos, Indigenous people, Hawaiian Natives, Pacific Islanders, Black people, and an unspecified "Other" are the populations carrying the statewide poverty line over their shoulders. Poverty rates for Asian people in California are low. However, this standalone fact does not mean that Asian people have ceased to experience other forms of racisms. 
 
 <p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/ad7ffd96-27b8-4c96-8c5c-1593ff82a193" width="60%" height="60%" class="center"></p>
 
