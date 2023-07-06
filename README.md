@@ -1,3 +1,4 @@
+<p align="center">
 # Exploratory Data Analysis of the 2021 American Community Survey using the Census API on R
 
 I grew up in Calexico, California in the county of Imperial. Calexico is a small town with a population of about 40,000 thousand people. The closest we have to a metropilis in Imperial County is El Centro, a slightly larger town with a Panda Express, an In-N-Out, an IHOP, and a shopping mall (the fanciest store is a Dillards). 
@@ -63,6 +64,8 @@ We can start by making changes to the Census itself.
 The census does not have an isolated cateogry for Latinos. The category is called "Hispanic or Latino." Hispanic and Latino are not interchangeable terms. Hispanic refers to anybody who speaks Spanish. This includes people from Spain, who are European and mostly White. The reason why so many Latinos speak Spanish is because we were colonized by Spain. Spanish people, being European, are not at all perceived in the same way as Latinos. That is the reason why someone like Rosalia, who is Spanish, is the first person to popularize reggaeton, a Puerto Rican genre, to non-Latino audiences in the United States and worlwide. Spanish people are not Latinos. Our cultures differ in everything but the language that we speak. We should not pigeonholed into the same category. Furthermore, not all latinos speak Spanish. Brazilian people speak portuguese. 
 
 Afrolatinos exist and need to be accounted for in the census. The census separates White Latinos and Non-Latino White people to account for the White Latino population. However, it provides no separation between Black Latinos and Non-Latino Black people. Afrolatinos clearly face unique prejudices. For one, the census does not provide them with their own category.
+
+</p>
 
 The category "Other" needs to be clarified. Despite them only making 3% of the California population, "Other" face similar forms of oppression that Latinos, Black, Indigenous and Hawaiian or Pacific Islander people face in the United States. We need to know who they are. "Other" is not enough. 
 
