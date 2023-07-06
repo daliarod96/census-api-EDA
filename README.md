@@ -10,7 +10,7 @@ Imperial County is right next to the US-Mexico border so it has a very large Lat
 
 <p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/353c3f33-af6a-424b-816a-a565868dad66" width="60%" height="60%" class="center"></p>
 
-Calexico, where I grew up, is made up of over 95% Latinos. As a child, I was very confused by my school textbooks that talked about the US as a diverse country and a "melting pot" of cultures. The place where I grew up in did not feel very diverse. Aside from my four Asian friends (1 Korean, 3 Chinese), I had never met anyone who was not Latino (especifically Mexican) until I moved to Los Angeles, CA to complete my undergraduate studies at UCLA. 
+Calexico, where I grew up, is made up of over 95% Latinos. As a child, I was very confused by my school textbooks that talked about the US as a diverse country and a "melting pot" of cultures. The place where I grew up in did not feel very diverse. I had never met anyone who was not Latino (especifically Mexican) until I moved to Los Angeles, CA to complete my undergraduate studies at UCLA. 
 
 <p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/13c7eda1-f043-451d-bb97-7eca9949b16d" width="60%" height="60%" class="center"></p>
 
