@@ -67,18 +67,18 @@ An associate's degree provides a near insubstantial relief from poverty. 28.8% o
 
 <p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/64fd21a9-8f9f-41bb-9dd4-4d2b1eca3f4d" width="60%" height="60%" class="center"></p>
 
-Bachelor's degrees (or higher) are associated with lower poverty rates. White people have higher 
+Bachelor's degrees (or higher) are associated with lower poverty rates. 45.4% of White people in California have Bachelor's degrees in comparison to 14.9% of Latinos. White people in Imperial County have a 10% poverty rate, whereas 22.3% of Imperial County Latinos are living under the poverty line.
 
 <p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/f3c797e7-fcfc-4f53-9eb1-6951e6e110c3" width="60%" height="60%" class="center"></p>
 
 
-The Imperial County needs a lot of help. The data shows that Imperial County is not an isolated case, but one of many examples of Latino communities that face systemic oppression at the hands of the United States. Low wages, high unemployment rates, and low educational attainment are three factors keeping Latinos in poverty. 
+The Imperial County needs a lot of help. The data shows that Imperial County is not an isolated case, but one of many examples of Latino communities that face systemic oppression at the hands of a capitalist society. Low wages, high unemployment rates, and low educational attainment are three factors keeping Latinos in poverty. 
 
 What can we do to help? 
 
 We can start by making changes to the Census itself. 
 
-The Census does not have an isolated cateogry for Latinos. The category is called "Hispanic or Latino." Hispanic and Latino are not interchangeable terms. Hispanic refers to anybody who speaks Spanish. This includes people from Spain, who are European and mostly White.  Spanish people are not Latinos. Our cultures differ in everything but the language that we speak. We should not pigeonholed into the same category. Furthermore, interchangeability of Hispanic and Latino is based on the stereotype that all Latinos speak Spanish. Brazilians speak Portuguese and there's other 600 different languages spoken in Latin America. 
+The Census does not have an isolated cateogry for Latinos. The category is called "Hispanic or Latino." Hispanic and Latino are not interchangeable terms. Hispanic refers to anybody who speaks Spanish. This includes people from Spain, who are European and mostly White.  Spanish people are not Latinos. Our cultures differ in everything but the language that we speak. We should not pigeonholed into the same category. Furthermore, interchangeability of Hispanic and Latino is based on the stereotype that all Latinos speak Spanish. Brazilians speak Portuguese and there are over 600 different languages spoken all over Latin America. 
 
 Afrolatinos need to be accounted for in the Census. The Census separates White (Latino) and White (Not Latino) people to account for the intersection of these two identities. However, it provides no separation between Black (Latino) and Black (Not Latino) people. Afrolatinos  face various prejudices in the Census and not providing them with their own category is one of them.
 
