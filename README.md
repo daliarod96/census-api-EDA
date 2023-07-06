@@ -77,9 +77,12 @@ The census does not have an isolated cateogry for Latinos. The category is calle
 
 Afrolatinos exist and need to be accounted for in the census. The census separates White (Latino) and White (Not Latino) people to account for the intersection of these two identities. However, it provides no separation between Black (Latino) and Black (Not Latino) people. Afrolatinos clearly face unique prejudices. For one, the census does not provide them with their own category.
 
-</p>
+The category "Other" needs to be clarified. Despite them only making .3% of the California population, "Other" face similar forms of oppression that Latinos, Black, Indigenous and Hawaiian or Pacific Islander people face in the United States. Their identity matters. We need to know who they are. "Other" is not enough. 
 
-The category "Other" needs to be clarified. Despite them only making 3% of the California population, "Other" face similar forms of oppression that Latinos, Black, Indigenous and Hawaiian or Pacific Islander people face in the United States. We need to know who they are. "Other" is not enough. 
+
+
+
+
 
 
 
