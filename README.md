@@ -67,7 +67,7 @@ Bachelor's degrees (or higher) are associated with lower poverty rates.
 <p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/f3c797e7-fcfc-4f53-9eb1-6951e6e110c3" width="60%" height="60%" class="center"></p>
 
 
-The Imperial County needs a lot of help. The data shows that Imperial County is not an isolated case, but one of many examples of systemic oppression that Latinos face in the United States. Low wages, high unemployment rates, and low educational attainment are three factors keeping Latinos in poverty. 
+The Imperial County needs a lot of help. The data shows that Imperial County is not an isolated case, but one of many examples of Latino communities that face systemic oppression at the hands of the United States. Low wages, high unemployment rates, and low educational attainment are three factors keeping Latinos in poverty. 
 
 What can we do to help? 
 
