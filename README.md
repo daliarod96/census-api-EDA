@@ -39,7 +39,7 @@ Almost twice as many white families in California make over $100,000 a year (59.
 Latinos are the group with the highest concentration of residents without a high school diploma (33%) and the lowest concentration of residents with a Bachelor's degree or higher (14.9) after the unspecified "Other." Only 4.7% of White people are not high school graduates and 45.4% have at least a Bachelor's degree. White people are 6x less likely to not hold a high school diploma and 3x more likely to have a university degree than Latinos.
 
 <p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/e17019f3-f3a7-4e4a-8903-09d386f04c33" width="60%" height="60%" class="center"></p>
-<img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/4759229b-84ac-41ae-ae63-ffb39200ebae" widtch="60% height"60%></p>
+<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/4759229b-84ac-41ae-ae63-ffb39200ebae" width="60%" height="60%" class="center"></p>
 
 
 Counties with high concentrations of residents without a high school diploma are associated with higher concentrations of poverty.
