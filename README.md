@@ -1,6 +1,6 @@
 <p align="center">Exploratory Data Analysis of the 2021 American Community Survey using the Census API on R</p>
 
-I grew up in Calexico, California in the county of Imperial. Calexico is a small town with a population of about 40,000 thousand people. The closest we have to a metropilis in Imperial County is El Centro, a slightly larger town with a Panda Express, an In-N-Out, an IHOP, and a shopping mall (the fanciest store is a Dillards). 
+I grew up in Calexico, California in the county of Imperial. Calexico is a small town with a population of about 40,000 thousand people. The closest we have to a metropilis in Imperial County is El Centro, a slightly larger town with a Panda Express, an In-N-Out, an IHOP, and a shopping mall. 
 
 <p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/bf5acde6-e7d1-4f66-bd09-a83abba698f5" width="60%" height="60%" class="center"></p>
 
