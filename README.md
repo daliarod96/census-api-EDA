@@ -5,7 +5,7 @@ I grew up in Calexico, California in the county of Imperial. Calexico is a small
 ![imperial_population_map](https://github.com/daliarod96/census-api-EDA/assets/79605544/bf5acde6-e7d1-4f66-bd09-a83abba698f5)
 
 
- <img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/bf5acde6-e7d1-4f66-bd09-a83abba698f5" width="50%" height="50%">
+ <img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/bf5acde6-e7d1-4f66-bd09-a83abba698f5" width="75%" height="75%">
 
 Imperial County is right next to the US-Mexico border so it has a very large Latino population. It actually has the largest concentration of Latinos out of any county in California. California has a lot of Latinos overall, being the second largest group after White people. 
 
