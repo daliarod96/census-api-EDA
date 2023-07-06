@@ -6,10 +6,9 @@ I grew up in Calexico, California in the county of Imperial. Calexico is a small
 
 Imperial County is right next to the US-Mexico border so it has a very large Latino population. It actually has the largest concentration of Latinos out of any county in California. California has a lot of Latinos overall, being the second largest group after White people. 
 
-![latinos_california_map](https://github.com/daliarod96/census-api-EDA/assets/79605544/501952f2-eecc-4e25-a516-093b9ca24735)
+<img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/501952f2-eecc-4e25-a516-093b9ca24735" width="75%" height="75%" class="center">
 
-![race_in_ca](https://github.com/daliarod96/census-api-EDA/assets/79605544/353c3f33-af6a-424b-816a-a565868dad66)
-
+<img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/353c3f33-af6a-424b-816a-a565868dad66" width="75%" height="75%" class="center">
 
 Calexico, where I grew up, is made up of over 95% Latinos. As a child, I was very confused by my school textbooks that talked about the US as a diverse country and a "melting pot" of cultures. The place where I grew up in was not very diverse. Aside from my four Asian friends (1 Korean, 3 Chinese), I had never met anyone who was not Latino (especifically Mexican) until I started my undergraduate studies at UCLA in 2015. 
 
