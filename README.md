@@ -52,10 +52,21 @@ An associate's degree does not provide relief from poverty.
 ![pvt_associates](https://github.com/daliarod96/census-api-EDA/assets/79605544/64fd21a9-8f9f-41bb-9dd4-4d2b1eca3f4d)
 
 
-Bachelor's degrees (or higher) may help lower poverty rates.
+Bachelor's degrees (or higher) are associated with lower poverty rates.
 
 ![pvt_bachelor](https://github.com/daliarod96/census-api-EDA/assets/79605544/f3c797e7-fcfc-4f53-9eb1-6951e6e110c3)
 
 
+The Imperial County needs a lot of help. The data shows that Imperial County is not an isolated case, but one of many examples of systemic oppression that Latinos face in the United States. Low wages and low educational attainment are two factors keeping Latinos in poverty. 
+
+What can we do to help? 
+
+We can start by making changes to the Census itself. 
+
+The census does not have an isolated cateogry for Latinos. The category is called "Hispanic or Latino." Hispanic and Latino are not interchangeable terms. Hispanic refers to anybody who speaks Spanish. This includes people from Spain, who are European and mostly White. The reason why so many Latinos speak Spanish is because we were colonized by Spain. Spanish people, being European, are not at all perceived in the same way as Latinos. That is the reason why someone like Rosalia, who is Spanish, is the first person to popularize reggaeton, a Puerto Rican genre, to non-Latino audiences in the United States and worlwide. Spanish people are not Latinos. Our cultures differ in everything but the language that we speak. We should not pigeonholed into the same category. Furthermore, not all latinos speak Spanish. Brazilian people speak portuguese. 
+
+Afrolatinos exist and need to be accounted for in the census. The census separates White Latinos and Non-Latino White people to account for the White Latino population. However, it provides no separation between Black Latinos and Non-Latino Black people. Afrolatinos clearly face unique prejudices. For one, the census does not provide them with their own category.
+
+The category "Other" needs to be clarified. Despite them only making 3% of the California population, "Other" face similar forms of oppression that Latinos, Black, Indigenous and Hawaiian or Pacific Islander people face in the United States. We need to know who they are. "Other" is not enough. 
 
 
