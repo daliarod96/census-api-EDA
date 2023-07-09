@@ -34,7 +34,7 @@ Coincidentally (not), counties in California with large concentrations of Latino
 
 <p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/ad7ffd96-27b8-4c96-8c5c-1593ff82a193" width="60%" height="60%" class="center"></p>
 
-One possible reason for high poverty rates for Latinos in Imperial, and California as a whole, is low wages. Although the median household income does not tell us much about disparity, a closer look at family incomes for White people and Latinos in California reveal large differences between the two populations.
+One possible reason for high poverty rates for Latinos in Imperial, and California as a whole, is a low income. Although the median household income does not tell us much about disparity, a closer look at family incomes for White people and Latinos in California reveal large differences between the two populations.
 
 <p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/f0a6da8f-4871-4941-92c8-9be3297e2905" width="60%" height="60%" class="center"></p>
 
@@ -83,7 +83,7 @@ Bachelor's degrees (or higher) are also associated with lower unemployment rates
 
 # Discussion
 
-Imperial County needs a lot of help. Low wages, the highest unemployment rate out of any county in California, and low educational attainment are three factors leading to high poverty rates in Imperial County. The data shows that Imperial County is not an isolated case, but one of many predominantly Latino communities that face systemic oppression keeping families from obtaining socioeconomic comfort. 
+Imperial County needs a lot of help. Low incomes, the highest unemployment rate out of any county in California, and low educational attainment are three factors leading to high poverty rates in Imperial County. The data shows that Imperial County is not an isolated case, but one of many predominantly Latino communities that face systemic oppression keeping families from obtaining socioeconomic comfort. 
 
 We saw that counties in California with more Bachelor's degrees are also associated with lower unemployment and poverty rates. On the opposite end, a high school diploma or less is associated with higher rates of poverty and unemployment. Associate's degrees provide minuscule relief from poverty. In Imperial County, only 13.3% of Latinos over the age of 25 have a Bachelor's degree or higher. 28.8% have some college or an associate's degree, 24.2% have at most a high school diploma or equivalent, and 33.6% are not high school graduates. Low rates of university degrees in Imperial County offer one explanation for its high poverty and unemployment rates.
 
