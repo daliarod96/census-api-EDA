@@ -86,7 +86,36 @@ The Census does not have an isolated cateogry for Latinos. The category is calle
 
 Afrolatinos need to be accounted for in the Census. The Census separates White (Latino) and White (Not Latino) people to account for the intersection of these two identities. However, it provides no separation between Black (Latino) and Black (Not Latino) people. Afrolatinos  face various prejudices in the Census and not providing them with their own category is one of them.
 
-The path towards lowering unemployment and poverty rates in predominantly Latino communities like Imperial County involves improving and increasing access to higher education. Imperial Valley College (IVC) is the only public 2-year college in Imperial County. The second nearest option is Palo Verde College which is 1.5 hours away. According to the [U.S. Department of Education College Scorecard](https://collegescorecard.ed.gov/school/?115861-Imperial-Valley-College).
+The path towards lowering unemployment and poverty rates in predominantly Latino communities like Imperial County involves improving and increasing access to higher education. We saw that high concentrations of Bachelor's degrees are associated with lower concentrations of unemployment and poverty in California. Only 13.3% of Latinos over the age of 25 in Imperial County have a Bachelor's degree or higher. 28.8% have some college or an associate's degree and 24.2% have at most a high school diploma or equivalent. 
+
+Why haven't more Latinos in Imperial County earned bachelor's degrees? 
+
+One possible reason could be a a lack of options for higher education. 
+
+Imperial Valley College (IVC) is the only public 2-year college in Imperial County. The second nearest option is Palo Verde College which is 1.5 hours away. According to the [U.S. Department of Education College Scorecard](https://collegescorecard.ed.gov/school/?115861-Imperial-Valley-College) there are currently 6,385 undergraduate students at IVC, 92% are Hispanic or Latino. 48% of students are full-time, which is 24% above the average (almost double) for all of California [(California Community Colleges)](https://collegescorecard.ed.gov/school/?115861-Imperial-Valley-College). 8 years after attending IVC, 40% of students graduated, 18% transferred, 2% are still enrolled, and 39% withdrew. There are a lot of students graduating but there are also many students who are dropping out. One reason could be that student to teacher ratios are 32:1 when the average in California is 14:1 [(source)](https://www.usnews.com/education/best-colleges/the-short-list-college/articles/16-colleges-with-the-lowest-student-faculty-ratios#:~:text=Among%20the%201%2C222%20ranked%20colleges,students%20for%20each%20faculty%20member.).
+
+
+San Diego State University's (SDSU) campus in Imperial County is the only public university in Imperial County. However, it is not a 4-year university unless you major in criminal justice or psychology, where you have the option to enroll as a first-time freshman. According to its website, it offers the last two years of undergraduate education for students who wish to major in Criminal Justice, English, History, Latin American Studies, Liberal Studies, Mathematics, Nursing, Psyhcology, Public Administration, Social Science, Spanish and Public Health (last one is starting Fall 2024). For the same tuition fee ($2871 for full-time undergraduates), students at SDSU's campus in San Diego can pick from hundreds of majors in 97 areas. Students in Imperial County who want to study economics, engineering, science, art, music, or achitecture must travel out of state or at least two hours in California in order to complete their education. Cost of living becomes another factor. When I went to UCLA I had to take out student loans because my awarded grants did not cover cost of living. In a county where over 50% of families have an income of less than $60,000 dollars, I imagine a lot of aspiring students at Imperial County are caught in a similar situation. Some might not want to risk accruing debt and scholarships are very competitive. 
+
+The government could provide need-based cost of living university grants. Universities usually provide cost of living estimates, so officials can base themselves off of these. More Imperial Valley students would have the option to transfer to a 4-year universities without risking student debt. 
+
+IVC could provide more classes. This could ensure that students' needs are better meet. 
+
+SDSU could expand its campus in Imperial County. This expansion should involve adding more majors and the option for everyone to enroll as first time freshmen. From construction, to faculty, and administration, this would create a lot of jobs. For five years, SDSU Imperial Valley campus transfer students have kept higher full-time 2 year graduation rates than transfers students at its San Diego campus (70.1% vs. 60.3% in 2019), so it is worth investing in a population that clearly taking advantage of the education at their disposal. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
