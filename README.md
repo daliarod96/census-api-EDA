@@ -1,6 +1,6 @@
 <p align="center">Exploratory Data Analysis of the 2021 American Community Survey using the Census API on R</p>
 
-I grew up in Calexico, California in the county of Imperial. Calexico is a small town with a population of about 40,000 thousand people. The closest we have to a metropolis in Imperial County is El Centro, a slightly larger town with a Panda Express, an In-N-Out, an IHOP, and a shopping mall. 
+I grew up in Calexico, California in the rural county of Imperial. Calexico is a small town with a population of about 40,000 thousand people. The closest we have to a metropolis in Imperial County is El Centro, a slightly larger town with a Panda Express, an In-N-Out, an IHOP, and a shopping mall. 
 
 <p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/bf5acde6-e7d1-4f66-bd09-a83abba698f5" width="60%" height="60%" class="center"></p>
 
@@ -67,9 +67,14 @@ An associate's degree provides a near insubstantial relief from poverty. 28.8% o
 
 <p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/64fd21a9-8f9f-41bb-9dd4-4d2b1eca3f4d" width="60%" height="60%" class="center"></p>
 
-Bachelor's degrees (or higher) are associated with lower poverty rates. 45.4% of White people in California have Bachelor's degrees in comparison to 14.9% of Latinos. White people in Imperial County have a 10% poverty rate, whereas 22.3% of Imperial County Latinos are living under the poverty line.
+In California, Bachelor's degrees (or higher) are associated with lower poverty rates. 45.4% of White people in California have Bachelor's degrees in comparison to 14.9% of Latinos. White people in Imperial County have a 10% poverty rate, whereas 22.3% of Imperial County Latinos are living under the poverty line.
 
 <p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/f3c797e7-fcfc-4f53-9eb1-6951e6e110c3" width="60%" height="60%" class="center"></p>
+
+Bachelor's degrees (or higher) are also associated with lower unemployment rates. Imperial County has the highest percentage of unemployment in California. 
+![more_bachelors_less_unemployment](https://github.com/daliarod96/census-api-EDA/assets/79605544/9b1ba2f2-847b-4b01-a6ec-07f9514e1c71)
+
+<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/9b1ba2f2-847b-4b01-a6ec-07f9514e1c71" width="60%" height="60%" class="center"></p>
 
 
 The Imperial County needs a lot of help. The data shows that Imperial County is not an isolated case, but one of many examples of Latino communities that face systemic oppression at the hands of a capitalist society. Low wages, high unemployment rates, and low educational attainment are three factors keeping Latinos in poverty. 
@@ -82,7 +87,7 @@ The Census does not have an isolated cateogry for Latinos. The category is calle
 
 Afrolatinos need to be accounted for in the Census. The Census separates White (Latino) and White (Not Latino) people to account for the intersection of these two identities. However, it provides no separation between Black (Latino) and Black (Not Latino) people. Afrolatinos  face various prejudices in the Census and not providing them with their own category is one of them.
 
-The category "Other" needs to be clarified. "Other" face similar forms of oppression as Latinos, Black, Indigenous and Hawaiian or Pacific Islander people face in the United States. Their identity matters. We need to account for who they are and what they need. "Other" is not enough. 
+The path towards lowering unemployment and poverty rates in predominantly Latino communities like Imperial County involves improving and increasing access to higher education. Imperial Valley College (IVC) is the only public 2-year college in Imperial County. The second nearest option is Palo Verde College which is 1.5 hours away. According to the [U.S. Department of Education College Scorecard](https://collegescorecard.ed.gov/school/?115861-Imperial-Valley-College).
 
 
 
