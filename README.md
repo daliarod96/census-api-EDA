@@ -1,10 +1,12 @@
-<p align="center">###Exploratory Data Analysis of the 2021 American Community Survey using the Census API on R</p>
+### <p align="center">Exploratory Data Analysis of the Latino Population in Imperial County using the 2021 American Community Survey through the Census API on R</p>
 
 # Introduction
 
+As the title implies, I will be analyzing the Latino population of Imperial County, California. I will compare Latinos in Imperial County with other racialized groups in Imperial County and all of California. In particular, I am interested in finding information related to poverty, unemployment, and educational attainment for Latinos, and studying the relationship between these three variables for possible causes and effects.  
+
 # Exploratory Data Analysis
 
-I grew up in Calexico, California in the rural county of Imperial. Calexico is a small town with a population of about 40,000 thousand people. The closest we have to a metropolis in Imperial County is El Centro, a slightly larger town with a Panda Express, an In-N-Out, an IHOP, and a shopping mall. 
+I grew up in Calexico, CA in the rural county of Imperial. Calexico is a small town with a population of about 40,000 thousand people. The closest we have to a metropolis in Imperial County is El Centro, a slightly larger town with a Panda Express, an In-N-Out, an IHOP, and a shopping mall. 
 
 <p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/bf5acde6-e7d1-4f66-bd09-a83abba698f5" width="60%" height="60%" class="center"></p>
 
@@ -93,7 +95,9 @@ San Diego State University's (SDSU) campus in Imperial County is the only public
 # Conclusion
 Imperial County is one of many predominantly Latino communities in California that face significant barriers for obtaining socioeconomic comfort. In California, lower poverty and unemployment rates are associated with higher rates of Bachelor's (or higher) degrees, yet only 13.3% of Latinos in Imperial County have received a university diploma. Students in Imperial County are clearly taking advantage of their education, with local schools, IVC and SDSU, having above average graduation rates. However, higher education in Imperial County is limited, and many students might not have the option to pursue education outside of the county due to low family income. Investing in higher education through need-based cost of living grants for university students or the expansion of existing institutions of higher education may lead to more Bachelor's degrees being awarded in Imperial County, thus lower poverty and unemployment rates. The proposed solutions are grand but in scale with the problem at hand.
 
-On another note, while completing this project, I noticed some categories in the Census that need changing.
+# Sidenote
+
+While completing this project, I could not help but notice that the Census needs to update its categories pertaining to race and ethnicity. 
 
 The Census does not have an isolated cateogry for Latinos. The category is called "Hispanic or Latino." Hispanic and Latino are not interchangeable terms. Hispanic refers to anybody who speaks Spanish. This includes people from Spain, who are European and mostly White.  Spanish people are not Latinos. Our cultures differ in everything but the language that we speak. We should not pigeonholed into the same category. Furthermore, interchangeability of Hispanic and Latino is based on the stereotype that all Latinos speak Spanish. Brazilians speak Portuguese and there are over 600 different languages spoken all over Latin America. 
 
