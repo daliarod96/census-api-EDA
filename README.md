@@ -78,17 +78,9 @@ Bachelor's degrees (or higher) are also associated with lower unemployment rates
 
 The Imperial County needs a lot of help. The data shows that Imperial County is not an isolated case, but one of many examples of Latino communities that face systemic oppression keeping many in poverty. Low wages, high unemployment rates, and low educational attainment are three factors leading to poverty in Latino communities.
 
-What can we do about it? 
-
-We can start by making changes to the Census itself. 
-
-The Census does not have an isolated cateogry for Latinos. The category is called "Hispanic or Latino." Hispanic and Latino are not interchangeable terms. Hispanic refers to anybody who speaks Spanish. This includes people from Spain, who are European and mostly White.  Spanish people are not Latinos. Our cultures differ in everything but the language that we speak. We should not pigeonholed into the same category. Furthermore, interchangeability of Hispanic and Latino is based on the stereotype that all Latinos speak Spanish. Brazilians speak Portuguese and there are over 600 different languages spoken all over Latin America. 
-
-Afrolatinos need to be accounted for in the Census. The Census separates White (Latino) and White (Not Latino) people to account for the intersection of these two identities. However, it provides no separation between Black (Latino) and Black (Not Latino) people. Afrolatinos  face various prejudices in the Census and not providing them with their own category is one of them.
-
 The path towards lowering unemployment and poverty rates in predominantly Latino communities like Imperial County involves investing in higher education. We saw that counties with more Bachelor's degrees are associated with less unemployment and poverty in California. Only 13.3% of Latinos over the age of 25 in Imperial County have a Bachelor's degree or higher. 28.8% have some college or an associate's degree and 24.2% have at most a high school diploma or equivalent. 
 
-Hpwever, there is a lack of options for higher education in Imperial County. 
+Options for higher education in Imperial County are limited. 
 
 Imperial Valley College (IVC) is the only public 2-year college in Imperial County. The second nearest option is Palo Verde College which is 1.5 hours away. According to the [U.S. Department of Education College Scorecard](https://collegescorecard.ed.gov/school/?115861-Imperial-Valley-College) there are currently 6,385 undergraduate students at IVC, 92% are Hispanic or Latino. 48% of students are full-time, which is 24% above the average (almost double) for all of California [California Community Colleges](https://collegescorecard.ed.gov/school/?115861-Imperial-Valley-College). According to the [IVC Fact Book](https://www.imperial.edu/docs/research-planning/fact-books/10889-2020-ivc-fact-book/file), the top educational goals of Fall 2019 were: to obtain an Associate's degree and transfer to a 4-year university (49.6%), to obtain an Associate's degree without transferring (12.0%), to transfer to a 4-year university without an Associate's degree (7.1%) and 4-year college prerequisites (4.2%). Student to teacher ratios are 32:1 when the average in California is 14:1 [(source)](https://www.usnews.com/education/best-colleges/the-short-list-college/articles/16-colleges-with-the-lowest-student-faculty-ratios). If, in 8 years, only 40% of students graduated, 18% transferred, but 39% withdrew and 2% are still enrolled, this means that some students' educational needs are not being met.
 
@@ -101,11 +93,15 @@ SDSU could expand its campus in Imperial County. This expansion could involve ad
 IVC could offer more classes.
 
 
-We must accept that Latino communities in California face significant barriers for accessing higher education. Imperial County is one such community. It has the highest unemployment rate in the state, low wages, and low educational attainment. These are three factors keeping a large percentage of Imperial County's mostly Latino population in poverty. Bachelor's degrees are associated with lower poverty rates in California, but only 13.3% of Latinos over the age of 25 in Imperial County have an undergraduate degree or higher, 24.0% have some college education or an associate's degree, 25.6% do not hold more than a high school diploma. Local sources of higher education are limited, and seeking an education outside of the county might not be an option for over 50% of families in Imperial County that are living with a yearly income of less than $60,000. I proposed various solutions to lower poverty rates in Imperial County by investing in higher education through need-based grants or the expansion of existing schools like IVC and SDSU. The solutions are grand but in scale with the problem at hand.
+Latino communities in California face significant barriers for accessing higher education. Imperial County is one such community. It has the highest unemployment rate in the state, low wages, and low educational attainment. These are three factors keeping a large percentage of Imperial County's mostly Latino population in poverty. Bachelor's degrees are associated with lower poverty rates in California, but only 13.3% of Latinos over the age of 25 in Imperial County have an undergraduate degree or higher, 24.0% have some college education or an associate's degree, 25.6% do not hold more than a high school diploma. Local sources of higher education are limited, and seeking an education outside of the county might not be an option for over 50% of families in Imperial County that are living with a yearly income of less than $60,000. I proposed various solutions to lower poverty rates in Imperial County by investing in higher education through need-based grants or the expansion of existing schools like IVC and SDSU. The solutions are grand but in scale with the problem at hand.
 
 
 
+On another note, while completing this project, I noticed some categories in the Census that need changing.
 
+The Census does not have an isolated cateogry for Latinos. The category is called "Hispanic or Latino." Hispanic and Latino are not interchangeable terms. Hispanic refers to anybody who speaks Spanish. This includes people from Spain, who are European and mostly White.  Spanish people are not Latinos. Our cultures differ in everything but the language that we speak. We should not pigeonholed into the same category. Furthermore, interchangeability of Hispanic and Latino is based on the stereotype that all Latinos speak Spanish. Brazilians speak Portuguese and there are over 600 different languages spoken all over Latin America. 
+
+Afrolatinos need to be accounted for in the Census. The Census separates White (Latino) and White (Not Latino) people to account for the intersection of these two identities. However, it provides no separation between Black (Latino) and Black (Not Latino) people. Afrolatinos  face various prejudices in the Census and not providing them with their own category is one of them.
 
 
 
