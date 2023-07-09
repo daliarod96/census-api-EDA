@@ -2,7 +2,7 @@
 
 # Introduction
 
-As the title implies, I will be analyzing the Latino population of Imperial County, California. I will compare Latinos in Imperial County with other racialized groups in Imperial County and all of California. In particular, I am interested in finding information related to poverty, unemployment, and educational attainment for Latinos, and studying the relationship between these three variables for possible causes and effects.  
+As the title implies, I will be analyzing the Latino population of Imperial County, California. I will compare Latinos in Imperial County with other racialized groups in the county and all of California. In particular, I am interested in finding information related to poverty, unemployment, and educational attainment for Latinos. I will study the relationship between these three variables for possible causes and effects.  
 
 # Exploratory Data Analysis
 
