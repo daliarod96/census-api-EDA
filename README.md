@@ -2,7 +2,7 @@
 
 # Introduction
 
-As the title implies, I will be analyzing the Latino population of Imperial County, California. I will compare Latinos in Imperial County with other racialized groups in the county and all of California. In particular, I am interested in finding information related to poverty, unemployment, and educational attainment for Latinos. I will study the relationship between these three variables for possible causes and effects.  
+I used R to analyze the Latino population of Imperial County, California through the 2021 American Community Survey. I compared Latinos in Imperial County with other racialized groups in the county and all of California. Specifically, I mined for information related to poverty, unemployment, and educational attainment for Latinos and other racialized or ethnic groups. I studied the relationship between these variables, and found that Latino communities like Imperial County tend to have higher rates of unemployment and poverty and lower rates of educational attainment than other groups in California. The analysis showed that educational attainment is associated with lower rates of unemployment and poverty, so I researched the state of higher education in Imperial County and offered solutions to issues that arose during my search.
 
 # Exploratory Data Analysis
 
@@ -101,7 +101,7 @@ While completing this project, I could not help but notice that the Census needs
 
 The Census does not have an isolated cateogry for Latinos. The category is called "Hispanic or Latino." Hispanic and Latino are not interchangeable terms. Hispanic refers to anybody who speaks Spanish. This includes people from Spain, who are European and mostly White.  Spanish people are not Latinos. Our cultures differ in everything but the language that we speak. We should not pigeonholed into the same category. Furthermore, interchangeability of Hispanic and Latino is based on the stereotype that all Latinos speak Spanish. Brazilians speak Portuguese and there are over 600 different languages spoken all over Latin America. 
 
-Afrolatinos need to be accounted for in the Census. The Census separates White (Latino) and White (Not Latino) people to account for the intersection of these two identities. However, it provides no separation between Black (Latino) and Black (Not Latino) people. Afrolatinos  face various prejudices in the Census and not providing them with their own category is one of them.
+Afrolatinos need to be accounted for in the Census. The Census separates White (Latino) and White (Not Latino) people to account for the intersection of these two identities. However, it provides no separation between Black (Latino) and Black (Not Latino) people. Afrolatinos face various prejudices in the Census and not providing them with their own category is one of them.
 
 
 
