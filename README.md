@@ -83,7 +83,7 @@ Bachelor's degrees (or higher) are also associated with lower unemployment rates
 
 # Discussion
 
-Imperial County needs a lot of help. Low incomes, the highest unemployment rate out of any county in California, and low educational attainment are three factors leading to high poverty rates in Imperial County. The data shows that Imperial County is not an isolated case, but one of many predominantly Latino communities that face systemic oppression keeping families from obtaining socioeconomic comfort. 
+Imperial County needs a lot of help. Low incomes, the highest unemployment rate out of any county in California, and low educational attainment are three factors leading to high poverty rates in Imperial County. The data shows that Imperial County is not an isolated case, but one of many predominantly Latino communities that face systemic oppression that keeps families from obtaining socioeconomic comfort. 
 
 We saw that counties in California with more Bachelor's degrees are also associated with lower unemployment and poverty rates. On the opposite end, a high school diploma or less is associated with higher rates of poverty and unemployment. Associate's degrees provide minuscule relief from poverty. In Imperial County, only 13.3% of Latinos over the age of 25 have a Bachelor's degree or higher. 28.8% have some college or an associate's degree, 24.2% have at most a high school diploma or equivalent, and 33.6% are not high school graduates. Low rates of university degrees in Imperial County offer one explanation for its high poverty and unemployment rates.
 
