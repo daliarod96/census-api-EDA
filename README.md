@@ -2,7 +2,7 @@
 
 # Introduction
 
-I used R to analyze the Latino population of Imperial County, California through the 2021 American Community Survey. I compared Latinos in Imperial County with other racialized groups in the county and all of California. Specifically, I mined for information related to poverty, unemployment, and educational attainment for Latinos and other racialized or ethnic groups. I studied the relationship between these variables, and found that Latino communities like Imperial County tend to have higher rates of unemployment and poverty and lower rates of educational attainment than other groups in California. The analysis showed that educational attainment is associated with lower rates of unemployment and poverty, so I researched the state of higher education in Imperial County and offered solutions to issues that arose during my search.
+I used R to analyze the Latino population of Imperial County, California through the 2021 American Community Survey by the U.S. Census. I compared Latinos in Imperial County with other racialized groups in the county and all of California. Specifically, I mined for information related to poverty, unemployment, and educational attainment for Latinos and other racialized or ethnic groups. I studied the relationship between these variables, and found that Latino communities like Imperial County tend to have higher rates of unemployment and poverty and lower rates of educational attainment than other groups in California. The analysis showed that educational attainment is associated with lower rates of unemployment and poverty, so I researched the state of higher education in Imperial County and offered solutions to issues that arose during my search.
 
 # Exploratory Data Analysis
 
@@ -30,7 +30,7 @@ Coincidentally (not), a linear model tells us that counties in California with l
 
 <p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/6e35b438-6b2f-4ecf-8ed5-cee296e7b24f" width="60%" height="60%" class="center"></p>
 
-15.5% of Latinos in California are living under the poverty line in comparison to 8.7% of White people. In Imperial County, poverty rates are higher than those in California at large. 22.3% of Latinos in Imperial County are living in poverty in comparison to 10% of White people. Latinos, Indigenous people, Hawaiian Natives, Pacific Islanders, Black people, and an unspecified "Other" are the populations carrying the statewide poverty line over their shoulders. Poverty rates for Asian people in California are low. It must be noted this standalone fact does not reflect the entire scope of the Asian experience in the U.S.
+15.5% of Latinos in California are living under the poverty line in comparison to 8.7% of White people. In Imperial County, poverty rates are higher than those in California at large. 22.3% of Latinos in Imperial County are living in poverty in comparison to 10% of White people. Latinos, Indigenous people, Hawaiian Natives, Pacific Islanders, Black people, and an unspecified "Other" are the populations carrying the statewide poverty line over their shoulders. Poverty rates for Asian people in California are low. It must be noted this standalone fact does not reflect the entire scope of the Asian experience in the U.S..
 
 <p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/ad7ffd96-27b8-4c96-8c5c-1593ff82a193" width="60%" height="60%" class="center"></p>
 
