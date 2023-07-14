@@ -24,11 +24,11 @@ Calexico, where I grew up, is made up of over 95% Latinos. As a child, I was ver
 
 A large percentage of people in Imperial County is currently living in poverty. It is one of the poorest counties in all of California.
 
-<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/e4f8bbf3-22cd-41eb-b6a1-6da189504a49" width="60%" height="60%" class="center"></p>
+<p align="center"><img src="" width="60%" height="60%" class="center"></p>
 
 Coincidentally (not), a linear model tells us that counties in California with large concentrations of Latinos are also associated with higher levels of poverty.
 
-<p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/6e35b438-6b2f-4ecf-8ed5-cee296e7b24f" width="60%" height="60%" class="center"></p>
+<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/83cae427-7452-46b0-8f39-8ddb65976a49" width="60%" height="60%" class="center"></p>
 
 15.5% of Latinos in California are living under the poverty line in comparison to 8.7% of White people. In Imperial County, poverty rates are higher than those in California at large. 22.3% of Latinos in Imperial County are living in poverty in comparison to 10% of White people. Latinos, Indigenous people, Hawaiian Natives, Pacific Islanders, Black people, and an unspecified "Other" are the populations carrying the statewide poverty line over their shoulders. Poverty rates for Asian people in California are low. It must be noted this standalone fact does not reflect the entire scope of the Asian experience in the U.S..
 
