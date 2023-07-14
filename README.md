@@ -79,7 +79,7 @@ In California, Bachelor's degrees (or higher) are associated with lower poverty 
 
 Bachelor's degrees (or higher) are also associated with lower unemployment rates. Imperial County has the highest percentage of unemployment in California. 
 
-<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/9b1ba2f2-847b-4b01-a6ec-07f9514e1c71" width="60%" height="60%" class="center"></p>
+<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/156a0412-6237-4a4b-afdc-e7c5ee019872" width="60%" height="60%" class="center"></p>
 
 # Discussion
 
