@@ -39,9 +39,9 @@ Almost twice as many White families in California make over $100,000 a year (59.
 
 <p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/d24b773c-c8cd-465d-9201-315cc036ae33" width="60%" height="60%" class="center"></p>
 
-The Imperial County also has the highest percentage of unemployed residents out of any county in California. 
+Imperial County has the highest percentage of unemployment in California. 
 
-<p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/2377eeb1-1da9-4421-a21b-79d4eb579682" width="60%" height="60%" class="center"></p>
+<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/156a0412-6237-4a4b-afdc-e7c5ee019872" width="60%" height="60%" class="center"></p>
 
 California counties with higher concentrations of Latinos are also associated with higher concentrations of unemployment.
 
@@ -73,9 +73,7 @@ In California, Bachelor's degrees (or higher) are associated with lower poverty 
 
 <p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/f3c797e7-fcfc-4f53-9eb1-6951e6e110c3" width="60%" height="60%" class="center"></p>
 
-Bachelor's degrees (or higher) are also associated with lower unemployment rates. Imperial County has the highest percentage of unemployment in California. 
-
-<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/156a0412-6237-4a4b-afdc-e7c5ee019872" width="60%" height="60%" class="center"></p>
+Bachelor's degrees (or higher) are also associated with lower unemployment rates.
 
 # Discussion
 
