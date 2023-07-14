@@ -12,11 +12,11 @@ I grew up in Calexico, CA in the rural county of Imperial. Calexico is a small t
 
 Imperial County is right next to the US-Mexico border so it has a very large Latino population. It actually has the largest concentration of Latinos out of any county in California.
 
-<p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/501952f2-eecc-4e25-a516-093b9ca24735" width="60%" height="60%" class="center"></p>
+<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/a487df5a-4b3f-4aee-838c-cecf756616da" width="60%" height="60%" class="center"></p>
 
 California has a lot of Latinos overall, being the second largest ethnic group after White people. 
 
-<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/39fdc9dd-1210-4a73-b133-18d1358e7a0d" width="60%" height="60%" class="center"></p>
+<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/6873cb13-73b0-46f2-acf7-5c9f58a9b65e" width="60%" height="60%" class="center"></p>
 
 Calexico, where I grew up, is made up of over 95% Latinos. As a child, I was very confused by my school textbooks that talked about the US as a diverse country and a "melting pot" of cultures. The place where I grew up in did not feel very diverse. I had only met a handful of people who were not Latino (especifically Mexican) before I moved to Los Angeles, CA to complete my undergraduate studies at UCLA. 
 
@@ -24,7 +24,7 @@ Calexico, where I grew up, is made up of over 95% Latinos. As a child, I was ver
 
 A large percentage of people in Imperial County is currently living in poverty. It is one of the poorest counties in all of California.
 
-<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/4e08027a-4e1c-4edc-a22e-ca833d1d9dd3" width="60%" height="60%" class="center"></p>
+<p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/e6cf2610-975f-4936-af0c-be095e182702" width="60%" height="60%" class="center"></p>
 
 Coincidentally (not), a linear model tells us that counties in California with large concentrations of Latinos are also associated with higher levels of poverty.
 
