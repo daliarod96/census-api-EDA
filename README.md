@@ -26,7 +26,7 @@ A large percentage of people in Imperial County is currently living in poverty. 
 
 <p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/83cae427-7452-46b0-8f39-8ddb65976a49" width="60%" height="60%" class="center"></p>
 
-Coincidentally (not), a linear model tells us that counties in California with large concentrations of Latinos are also associated with higher levels of poverty.
+A linear model tells us that counties in California with large concentrations of Latinos are also associated with higher levels of poverty.
 
 <p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/e63d126b-b0c8-46a4-b8f3-5d94c9b7f6a1" width="60%" height="60%" class="center"></p>
 
