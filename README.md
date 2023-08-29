@@ -18,5 +18,3 @@ Imperial County is right next to the US-Mexico border so it has a very large Lat
 California has a lot of Latinos overall, being the second largest ethnic group after White people. 
 
 <p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/6873cb13-73b0-46f2-acf7-5c9f58a9b65e" width="60%" height="60%" class="center"></p>
-
-Calexico, where I grew up, is made up of over 95% Latinos. As a child, I was very confused by my school textbooks that talked about the US as a diverse country and a "melting pot" of cultures. The place where I grew up in did not feel very diverse. I had only met a handful of people who were not Latino (especifically Mexican) before I moved to Los Angeles, CA to complete my undergraduate studies at UCLA. 
