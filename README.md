@@ -8,7 +8,7 @@ I used R to analyze the Latino population of Imperial County, California through
 
 I grew up in Calexico, CA in the rural county of Imperial. Calexico is a small town with a population of about 40,000 thousand people. The closest we have to a metropolis in Imperial County is El Centro, a slightly larger town with a Panda Express, an In-N-Out, an IHOP, and a shopping mall. 
 
-<p align="center"><img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/bf5acde6-e7d1-4f66-bd09-a83abba698f5" width="60%" height="60%" class="center"></p>
+<p align="center"> <img src="https://github.com/daliarod96/Census-api-EDA/assets/79605544/bf5acde6-e7d1-4f66-bd09-a83abba698f5" width="60%" height="60%" class="center"> </p>
 
 Imperial County is right next to the US-Mexico border so it has a very large Latino population. It actually has the largest concentration of Latinos out of any county in California.
 
