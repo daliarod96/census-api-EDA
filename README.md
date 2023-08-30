@@ -6,5 +6,5 @@ I analyzed the population of Imperial County, California through the 2021 Americ
 
 <p align="center"><img src="https://github.com/daliarod96/census-api-EDA/assets/79605544/95b8e8d0-fee7-4051-a5e5-aeedf61b2717" width="60%" height="60%" class="center"></p>
 
-The PDF file "report.pdf" is a comprehensive summary of my findings.
+The PDF file "report.pdf" is a comprehensive summary of my findings. <br></br>
 The folder "visualizations" contains the graphs that I created using Tidyverse and Tigris on R.
